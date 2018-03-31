@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : AltiumV14.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\QuadCopter\SI2302\AltiumV14\AltiumV14.lia
+    Section : PCB Library - AltiumV14.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TRANS_SP On Line 609
+            Warning - 1 : Skipping Token attachedSymbol On Line 680
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AltiumV14.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 30
+            Warning - 1 : Skipping Token patternDef On Line 348
+            Warning - 1 : Skipping Token patternDef On Line 435
+            Warning - 1 : Skipping Token patternDef On Line 522
+        EndSection
+
+        Section : Generating SCH Library - AltiumV14.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,109 @@
+PCAD Importer Log
+Project : AltiumV15.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\QuadCopter\SI2302\AltiumV15\AltiumV15.lia
+    Section : PCB Library - AltiumV15.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TRANS_SP On Line 618
+            Warning - 1 : Skipping Token attachedSymbol On Line 692
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - AltiumV15.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 10
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 30
+            Warning - 1 : Skipping Token multiLayer On Line 353
+            Warning - 1 : Skipping Token layerContents On Line 359
+            Warning - 1 : Skipping Token layerContents On Line 362
+            Warning - 1 : Skipping Token layerContents On Line 365
+            Warning - 1 : Skipping Token layerContents On Line 368
+            Warning - 1 : Skipping Token layerContents On Line 371
+            Warning - 1 : Skipping Token layerContents On Line 374
+            Warning - 1 : Skipping Token layerContents On Line 377
+            Warning - 1 : Skipping Token layerContents On Line 380
+            Warning - 1 : Skipping Token layerContents On Line 383
+            Warning - 1 : Skipping Token layerContents On Line 386
+            Warning - 1 : Skipping Token layerContents On Line 389
+            Warning - 1 : Skipping Token layerContents On Line 392
+            Warning - 1 : Skipping Token layerContents On Line 395
+            Warning - 1 : Skipping Token layerContents On Line 398
+            Warning - 1 : Skipping Token layerContents On Line 401
+            Warning - 1 : Skipping Token layerContents On Line 404
+            Warning - 1 : Skipping Token layerContents On Line 407
+            Warning - 1 : Skipping Token layerContents On Line 410
+            Warning - 1 : Skipping Token layerContents On Line 413
+            Warning - 1 : Skipping Token layerContents On Line 416
+            Warning - 1 : Skipping Token layerContents On Line 419
+            Warning - 1 : Skipping Token layerContents On Line 422
+            Warning - 1 : Skipping Token layerContents On Line 425
+            Warning - 1 : Skipping Token layerContents On Line 428
+            Warning - 1 : Skipping Token layerContents On Line 431
+            Warning - 1 : Skipping Token layerContents On Line 434
+            Warning - 1 : Skipping Token multiLayer On Line 443
+            Warning - 1 : Skipping Token layerContents On Line 449
+            Warning - 1 : Skipping Token layerContents On Line 452
+            Warning - 1 : Skipping Token layerContents On Line 455
+            Warning - 1 : Skipping Token layerContents On Line 458
+            Warning - 1 : Skipping Token layerContents On Line 461
+            Warning - 1 : Skipping Token layerContents On Line 464
+            Warning - 1 : Skipping Token layerContents On Line 467
+            Warning - 1 : Skipping Token layerContents On Line 470
+            Warning - 1 : Skipping Token layerContents On Line 473
+            Warning - 1 : Skipping Token layerContents On Line 476
+            Warning - 1 : Skipping Token layerContents On Line 479
+            Warning - 1 : Skipping Token layerContents On Line 482
+            Warning - 1 : Skipping Token layerContents On Line 485
+            Warning - 1 : Skipping Token layerContents On Line 488
+            Warning - 1 : Skipping Token layerContents On Line 491
+            Warning - 1 : Skipping Token layerContents On Line 494
+            Warning - 1 : Skipping Token layerContents On Line 497
+            Warning - 1 : Skipping Token layerContents On Line 500
+            Warning - 1 : Skipping Token layerContents On Line 503
+            Warning - 1 : Skipping Token layerContents On Line 506
+            Warning - 1 : Skipping Token layerContents On Line 509
+            Warning - 1 : Skipping Token layerContents On Line 512
+            Warning - 1 : Skipping Token layerContents On Line 515
+            Warning - 1 : Skipping Token layerContents On Line 518
+            Warning - 1 : Skipping Token layerContents On Line 521
+            Warning - 1 : Skipping Token layerContents On Line 524
+            Warning - 1 : Skipping Token multiLayer On Line 533
+            Warning - 1 : Skipping Token layerContents On Line 539
+            Warning - 1 : Skipping Token layerContents On Line 542
+            Warning - 1 : Skipping Token layerContents On Line 545
+            Warning - 1 : Skipping Token layerContents On Line 548
+            Warning - 1 : Skipping Token layerContents On Line 551
+            Warning - 1 : Skipping Token layerContents On Line 554
+            Warning - 1 : Skipping Token layerContents On Line 557
+            Warning - 1 : Skipping Token layerContents On Line 560
+            Warning - 1 : Skipping Token layerContents On Line 563
+            Warning - 1 : Skipping Token layerContents On Line 566
+            Warning - 1 : Skipping Token layerContents On Line 569
+            Warning - 1 : Skipping Token layerContents On Line 572
+            Warning - 1 : Skipping Token layerContents On Line 575
+            Warning - 1 : Skipping Token layerContents On Line 578
+            Warning - 1 : Skipping Token layerContents On Line 581
+            Warning - 1 : Skipping Token layerContents On Line 584
+            Warning - 1 : Skipping Token layerContents On Line 587
+            Warning - 1 : Skipping Token layerContents On Line 590
+            Warning - 1 : Skipping Token layerContents On Line 593
+            Warning - 1 : Skipping Token layerContents On Line 596
+            Warning - 1 : Skipping Token layerContents On Line 599
+            Warning - 1 : Skipping Token layerContents On Line 602
+            Warning - 1 : Skipping Token layerContents On Line 605
+            Warning - 1 : Skipping Token layerContents On Line 608
+            Warning - 1 : Skipping Token layerContents On Line 611
+            Warning - 1 : Skipping Token layerContents On Line 614
+            Warning - 1 : Skipping Token defaultPinDes On Line 626
+            Warning - 1 : Skipping Token defaultPinDes On Line 634
+            Warning - 1 : Skipping Token defaultPinDes On Line 642
+        EndSection
+
+        Section : Generating SCH Library - AltiumV15.SchLib
+        EndSection
+    EndSection
+EndSection
